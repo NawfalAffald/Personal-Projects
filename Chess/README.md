@@ -1,7 +1,7 @@
 # Chess-Rating X Meta-Factors
 
 This project is an attempt to predict chess-rating based on meta-factors.
-It contains an EDA mediated with visuals and based upon the findings an attempt on a predictive model has been made
+It contains an EDA mediated with visuals and based upon the findings an attempt on a predictive model has been made. I would advise you to clone the project as the github preview has compressed some of the graphs and completely omitted others. Also, i apologize in advance for the sass (not Syntactically Awesome Style Sheets), i tried my best to contain it.
 
 # Intro
 
