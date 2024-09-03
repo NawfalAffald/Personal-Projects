@@ -1,0 +1,8 @@
+Property prices
+https://www.kaggle.com/datasets/shashanks1202/apartment-rent-data
+Student Performance
+https://www.kaggle.com/datasets/waqi786/student-performance-dataset
+Games¨
+https://www.kaggle.com/datasets/nayanack/online-game-dataset?resource=download
+SoMe:
+https://www.kaggle.com/datasets/raminhuseyn/dataset-from-tiktok
