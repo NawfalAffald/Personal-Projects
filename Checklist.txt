@@ -1,0 +1,72 @@
+Data Visualization:
+    - Used:
+        - Seaborn
+        - Plotly
+        - Matplotlib
+    - TBU:
+        - Altair
+        - Dash (Interactive Dashboards)
+
+Libraries:
+    - Used
+        - Numpy
+        - Pandasi
+        - Scikit-Learn
+        - Statsmodels
+    - TBU
+        - Dask (Large datasets)
+        - XGBoost/LightGBM/CatBoost (Gradient boosting models)
+
+Simple Regressions:
+    - Used
+        - Linear Regressions
+        - Polynomial hyperparameter
+    - TBU:
+        - Ridge/Lasso (Regularization techniques)
+        - Logistic (Binary classification task)
+
+Advanced Regressions:
+    - TBU:
+        - Support Vector Regression (SVR) ?
+        - Bayesian Regression (Uncertainty & Prior Knowledge) ?
+
+Classification Models:
+    - TBU:
+        - Decision Trees
+        - Random Forest
+        - Support Vector Machines
+
+Ensemble:
+
+Unsupervised Learning:
+    - TBU:
+        - Dimensionality reduction (PCA, t-SNE, UMAP)
+        - Anomaly Detection (One-Class SVM, Isolation Forest)
+
+Instance Based learning:
+    - TBU:
+        - K-Nearest Neighbors
+        - Hybrid approach (Boosting: AdaBoosting, Gradient Boosting)
+
+Industry Tools:
+    - TBU:
+        - Tableau
+        - Excel Integration
+        - Cloud Computing Platforms
+
+Datamining:
+    - TBU:
+        - Web Scraping
+        - SQL
+        - DB Management
+        - API's
+        - ETL Pipelines (End2En: Apache Airflow / Luigi)
+
+Time Series Analysis:
+    - TBU:
+        - ARIMA, SARIMA, Prophet
+
+Natural Language Processing (NLP)
+    - TBU:
+        - 
+    
